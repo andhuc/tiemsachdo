@@ -2,4 +2,4 @@
 git add .
 git commit -m "import book"
 git push
-pause
+if errorlevel 1 pause
